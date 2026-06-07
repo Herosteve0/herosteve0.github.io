@@ -2,12 +2,15 @@
 
 ### Workplace
 
-I am currently a university student at the [**National and Kapodistrian University of Athens**](https://www.uoa.gr), studying in the department of [**Computer Science and Telecommunication**](https://www.di.uoa.gr)
+University student at the [**National and Kapodistrian University of Athens**](https://www.uoa.gr), studying in the department of [**Computer Science and Telecommunication**](https://www.di.uoa.gr)
 
 ### Experience
 
-* I've been a Minecraft Server Developer creating Plugins for a custom server of mine with [**Skript**](https://skripthub.net) for around four years, with the server itself still being under development.
+* Minecraft plugin development with [**Skript**](https://skripthub.net)
+* [**Python**](https://www.python.org)
+* [**C-Sharp**](https://learn.microsoft.com/en-us/dotnet/csharp/)
+* [**Unity**](https://unity.com)
 
-* I have a little experience with [**Unity**](https://unity.com) and **C-Sharp (C#)**, having made a few projects there.
+### Projects
 
-* My main language as of now is **Python**, where I design most of my projects and try out new things. Most of my recent projects I worked, or am still working on can be found [**here**](https://github.com/Herosteve0/PythonScripts).
+* [**Artificial Neural Networks**](https://github.com/Herosteve0/Neurtal-Network-Overview)
